@@ -7,3 +7,4 @@ Repo ini terdapat beberapa file sebagai berikut.
 untuk menjalankan soal 1 - 5 menggunakan https://www.onlinegdb.com/ 
 Dan soal no 6 menggunakan Xampp dimana web server menggunakan apache dan database menggunakan mariaDB
 
+Untuk soal 6b menggunakan HTML dan CSS
